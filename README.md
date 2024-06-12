@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying on Wuhan University
 - 🌱 I’m currently learning Multi modal data fusion 
   - including:
-  \item HSI and MSI
-
 -->
